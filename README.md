@@ -2,6 +2,6 @@
 
 Big Data Analytics and Applications * 
 
-LabAssignment 1 report is updated on Wiki
+LabAssignment 2 report is updated on Wiki
 
 
